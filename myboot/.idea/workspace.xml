@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f6e65c3-d32b-4e41-9b4b-585bfc5f8e5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/dev/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.6.1\conf\settings_normal.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1byUQy1a7VG44P6uqGsXc7YtxOF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\myboot\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\myboot\src\main\resources\mapper" />
+      <recent name="D:\Git\myboot\src\main\resources" />
+      <recent name="D:\Git\myboot\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountDaoTest">
+    <configuration name="AccountDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myboot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myboot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="obc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="obc.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountDaoTest" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.AccountDaoTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6e65c3-d32b-4e41-9b4b-585bfc5f8e5c" name="Default Changelist" comment="" />
+      <created>1589603814754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589603814754</updated>
+      <workItem from="1589603816204" duration="10377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1589608167967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589608167967" />
+    <state width="1493" height="483" key="GridCell.Tab.0.bottom" timestamp="1589613424999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589613424999" />
+    <state width="1493" height="483" key="GridCell.Tab.0.center" timestamp="1589613424999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589613424999" />
+    <state width="1493" height="483" key="GridCell.Tab.0.left" timestamp="1589613424999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589613424999" />
+    <state width="1493" height="483" key="GridCell.Tab.0.right" timestamp="1589613424999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589613424999" />
+    <state width="1493" height="483" key="GridCell.Tab.1.bottom" timestamp="1589611553351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589611553351" />
+    <state width="1493" height="483" key="GridCell.Tab.1.center" timestamp="1589611553351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589611553351" />
+    <state width="1493" height="483" key="GridCell.Tab.1.left" timestamp="1589611553351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589611553351" />
+    <state width="1493" height="483" key="GridCell.Tab.1.right" timestamp="1589611553351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589611553351" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1589604109737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589604109737" />
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589608224037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1589608224037" />
+    <state x="178" y="107" key="new project wizard" timestamp="1589614509159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589614509159" />
+  </component>
+</project>
